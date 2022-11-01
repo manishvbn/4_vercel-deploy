@@ -9,7 +9,7 @@ export default function Index() {
       </Head>
 
       <div className='text-center'>
-        <h1 className="text-primary">Home Page</h1>
+        <h1 className="text-primary">Home Page Changed</h1>
         <h4 className="text-warning">This is a Simple, Next JS Application</h4>
       </div>
     </>
